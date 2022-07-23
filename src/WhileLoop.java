@@ -9,7 +9,7 @@ public class WhileLoop {
         int j = 0;
 //        do while loop
         do {
-            System.out.println("I am " + (j+1));
+            System.out.println("I am " + (j + 1));
             j++;
         }
         while (j<100);
