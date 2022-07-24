@@ -2,7 +2,7 @@ package OOP;
 
 public class Use {
     public static void main(String[] args){
-        Human best = new Human("Joshua", 25, true);
+        Human best = new Human("Joshua", 25);
 
         System.out.println(best.name);
         best.grow();

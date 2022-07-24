@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f8f774-7051-4187-a411-f05276728547" name="Changes" comment="Importing packages" />
+    <list default="true" id="51f8f774-7051-4187-a411-f05276728547" name="Changes" comment="Importing packages">
+      <change afterPath="$PROJECT_DIR$/src/GUI/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Female.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Use.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Use.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Use">
+  <component name="RunManager" selected="Application.Home">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="Practice" />
@@ -47,9 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.Home" />
       <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Home" />
         <item itemvalue="Application.Use" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>

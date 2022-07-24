@@ -23,6 +23,6 @@ public class Main {
 //        System.out.println(name.concat(name2));
 //        System.out.println(Math.max(x,y));
 //        System.out.println(Math.random());
-        Human friend = new Human("Joshua", 32, true); //used this to test how to import java packages
+        Human friend = new Human("Joshua", 32); //used this to test how to import java packages
     }
 }

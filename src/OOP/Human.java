@@ -3,19 +3,19 @@ package OOP;
 import java.util.Arrays;
 
 public class Human {
-    boolean isMale;
+//    boolean isMale;
     String name;
     int age;
 
     //    access control using encapsulation paradigm
-    private String complexionArray[] = {"fair", "dark"};
-    private String complexion = complexionArray[0];
+    protected String complexionArray[] = {"fair", "dark"};
+    protected String complexion = complexionArray[0]; //changing the private to protected, so the subclass can inherit from it.
 
 //    trying out constructors
-    public Human(String Name, int Age, boolean IsMale){
+    public Human(String Name, int Age){
         this.name = Name;
         this.age = Age;
-        this.isMale = IsMale;
+//        this.isMale = IsMale;
     }
 
     public void grow(){
