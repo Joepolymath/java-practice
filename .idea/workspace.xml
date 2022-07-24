@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f8f774-7051-4187-a411-f05276728547" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Use.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Use.java" afterDir="false" />
-    </list>
+    <list default="true" id="51f8f774-7051-4187-a411-f05276728547" name="Changes" comment="Importing packages" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651705819259</updated>
     </task>
+    <task id="LOCAL-00001" summary="Importing packages">
+      <created>1658694834867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658694834867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Importing packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Importing packages" />
   </component>
 </project>
