@@ -7,9 +7,9 @@ public class Use {
         System.out.println(best.name);
         best.grow();
         System.out.println(best.getComplexionArray());
-        System.out.println(best.complexion);
         String newComplexions[] = {"black", "white"};
         best.setComplexionArray(newComplexions);
         System.out.println(best.getComplexionArray());
+        best.setComplexion("White");
     }
 }
