@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f8f774-7051-4187-a411-f05276728547" name="Changes" comment="Importing packages">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Enums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Scanners.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Enums">
+  <component name="RunManager" selected="Application.Scanners">
     <configuration name="Enums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.Enums" />
       <module name="Practice" />
@@ -95,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Use" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Use" />
+    <configuration name="Scanners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Scanners" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scanners" />
         <item itemvalue="Application.Enums" />
         <item itemvalue="Application.OOP.Main" />
         <item itemvalue="Application.OuterClass" />
         <item itemvalue="Application.Home" />
-        <item itemvalue="Application.Use" />
       </list>
     </recent_temporary>
   </component>
